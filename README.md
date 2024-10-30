@@ -1,2 +1,5 @@
-# Strep_PhyGenom
-This research project employs comparative genomics to investigate Streptomyces scabiei, a significant plant pathogen affecting potato crops. By analyzing our four distinct strains (WSLK1-1, WSLK1-9, WSLK1-11, and WSLK1-12) against previous published genomes, we aim to uncover potential novel species and expand our understanding of genetic diversity within the S. scabiei complex. Through comprehensive genomic analysis, we identify unique genetic markers, virulence factors, and metabolic pathways that contribute to pathogenicity and ecological adaptation. This repository contains the necessary scripts, data, and results from our genomic analyses, contributing to the broader understanding of Streptomyces diversity and evolution.
+##The comparative genome analysis is based on UFCG (database of universal fungal core genes) pipeline
+##source: https://ufcg.steineggerlab.com/ufcg/manual
+
+##Step1 
+
